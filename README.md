@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=heengg.heengg" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ Aashish!;" />
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWM1czhmcnN0Zm94YXp5Y3Z6NTJvYzF3YWJ6cnRnNHB5cG9lMXVweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bjC8sdurIYfElHXfxR/giphy.gif" />
 </h1>
 
 <div align="center">
