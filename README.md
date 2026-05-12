@@ -51,7 +51,7 @@ Currently studying Cyber Security and working with web application
 <!-- ![](https://github-readme-stats.vercel.app/api?username=fluid111&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=heeng&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=heengg&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
