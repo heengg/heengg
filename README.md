@@ -9,15 +9,13 @@
 </div>
 
 
-<h3 align="center">A passionate fullstack developer</h3>
+   <h3 align="center">Fullstack Web Developer & Cyber Security Enthusiast</h3>
 
 <br/>
 
 <div align="center">
-I'm currently working on Django 
-
- </div>
- 
+Currently studying Cyber Security and working with web application
+</div>
 
  <hr/>
  
