@@ -16,10 +16,10 @@
 
 ## About Me
 
-- 🌱 Currently learning **DevOps**
-- 💻 Working with **Fullstack Web Development**
-- 🔐 Passionate about **Web Application Security**
-- 🚀 Always exploring new technologies
+- Currently learning **DevOps**
+- Working with **Fullstack Web Development**
+- Passionate about **Web Application Security**
+- Always exploring new technologies
 
 <br/>
 
