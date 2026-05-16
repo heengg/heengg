@@ -12,9 +12,16 @@
 
 <br/>
 
-<div align="center">
-Currently studying Cyber Security and working with web application
-</div>
+<br/>
+
+## About Me
+
+- 🌱 Currently learning **DevOps**
+- 💻 Working with **Fullstack Web Development**
+- 🔐 Passionate about **Web Application Security**
+- 🚀 Always exploring new technologies
+
+<br/>
 
  <hr/>
  
