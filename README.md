@@ -8,7 +8,7 @@
 <!-- <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjdld3gwMjYyemYxY2RsdDh2MGdibndrZWU0NWFzamx5ZHdkMWc5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VDMHgvx8N9U7UUlczQ/giphy.gif" /> -->
 
 </div>
-   <h3 align="center">Fullstack Web Developer | Cyber Security Enthusiast | Learning DevOps</h3>
+   <h3 align="center">Fullstack Web Developer |Learning DevOps</h3>
 
 <br/>
 
